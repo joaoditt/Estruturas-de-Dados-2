@@ -1,16 +1,16 @@
 README.md<br>
-Descrição:<br>
+# Descrição:<br>
 Este projeto implementa um sistema básico de filas clássicas, circulares e filas de prioridade em Python. Ele permite visualizar as entradas e saídas de clientes, assim como também permite estudar como essas filas ordenam seus dados, sendo por “ordem de chegada” ou por “ordem de prioridade” alguns exemplos.<br><br>
 
 
-Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 Python 3.x;
 
 Bibliotecas: random, names, heapq;
 
 
-Pré requisitos para o funcionamento:
+# Pré requisitos para o funcionamento:
 
 Ter Python 3 instalado no sistema;
 
@@ -18,14 +18,14 @@ Instalar as dependências necessárias:
 
 !pip install names   <=use esse código para instalar a biblioteca 'names'.
 
-Executando o Projeto:
+# Executando o Projeto:
 
 Copie ou baixe este repositório;
 
 Execute o script principal em seu terminal;
 
 
-Estrutura do Código:
+# Estrutura do Código:
 
 Fila, Clientes: Listas que armazenam os dados do cliente, como nome, ordem de chegada e prioridade;
 
@@ -40,7 +40,7 @@ Tail: Referente ao final da fila;
 Size: Tamanho da fila.
 
 
-Respostas:
+# Respostas:
 
 A ordem de atendimento da fila de prioridade pode ser diferente da fila clássica porque a fila de prioridade organiza os elementos com base em um nível de importância ou urgência, e não apenas pela ordem cronológica de chegada.
 
