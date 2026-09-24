@@ -1,5 +1,5 @@
-README.md\n
-Descrição:\n
+README.md
+Descrição:
 Este projeto implementa um sistema básico de filas clássicas, circulares e filas de prioridade em Python. Ele permite visualizar as entradas e saídas de clientes, assim como também permite estudar como essas filas ordenam seus dados, sendo por “ordem de chegada” ou por “ordem de prioridade” alguns exemplos.
 
 Tecnologias Utilizadas:
